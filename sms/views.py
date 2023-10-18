@@ -11,3 +11,5 @@ def ThreadView(request):
 
 def home(request):
    return render(request,'sms/inbox.html')
+
+
